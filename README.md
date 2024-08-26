@@ -1,1 +1,2 @@
-# TGP_Automation
+# QAInnovationLab
+Automation Team / For education purpose
